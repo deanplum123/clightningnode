@@ -4,3 +4,4 @@
 # clightningnode
 # clightningnode
 # clightningnode
+# autoconf
